@@ -1,5 +1,9 @@
 # Data Scientist
 
-### Education
-Statistics and Data Science major, BS
-Mathematics minor
+#### Technical Skills: Python, SQL, R, MATLAB, C++
+
+## Education
+- B.S., Statistics and Data Science | University of California, Santa Barbara
+- Mathematics minor | University of California, Santa Barbara
+
+## Projects
